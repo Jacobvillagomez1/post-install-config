@@ -222,7 +222,7 @@ Now you will see it was succesffully added
 <img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/f3ed53b1-5215-43d6-8677-f9a95928f37f"/>
 </p>
 <p>
-Next go to agents tab then agents again. Then click Jane Doe 
+Next go to agents tab then agents again you will see Jane Doe was created. Then click add new agent 
 </p>
 <br />
 
@@ -230,5 +230,180 @@ Next go to agents tab then agents again. Then click Jane Doe
 </p>
 <p>
 Now go to the account tab then type john doe. For the email type johndoe@osticket.com then for the username type john doe.
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/86dae7ab-f562-4615-a1d2-3be0ed9b78db"/>
+</p>
+<p>
+Next click the access tab then for the primary department click support then click view only. Click the create tab 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/ed6972b6-2b9d-4cf0-b7cc-f659693f86a8"/>
+</p>
+<p>
+Now go to the agents tab and you will see john doe then click add new agent 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/2c2a5761-30f7-483b-a704-31d994ee1b52"/>
+</p>
+<p>
+Next type karen karen then for the email address type karenkaren@osticket.com. Then for the username type karenkaren 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/2c9610f9-2ca4-452b-9ad6-1826c33d720d"/>
+</p>
+<p>
+Now go to the access tab and for the primary department click support then click view only. Then click create 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/5380aa44-b445-4124-aae1-30c08d3ff466"/>
+</p>
+<p>
+Next go back to the agents tab and you will see that karenkaren was created. Click add new agent 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/39400b35-6b5a-49d2-a183-60e92354f18a"/>
+</p>
+<p>
+Type ken ken for the name section. Then for the email section type kenken@osticket.com followed by the username under kenken 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/b4bfb33d-1f30-4616-a3a2-8907eb9fbcec"/>
+</p>
+<p>
+Go to the access tab and for the primary department click support then click view only now click create 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/5cfac814-5ef9-43b1-bf4d-c88b4d4842cd"/>
+</p>
+<p>
+Click the manage tab then click SLA 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/fcfb9ca9-d3e3-47ce-b62b-34291686bbc4"/>
+</p>
+<p>
+Next click add new SLA plan 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/18b6c4eb-3059-46a3-85a5-009950a5a6d1"/>
+</p>
+<p>
+Now type SEV-A and the grade period type 1. For the schedule click 24/7 then click add plan
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/078199f8-df6e-4525-bea5-6233cd933371"/>
+</p>
+<p>
+Now type SEV-B and the grade period type 4. For the schedule click 24/7 then click add plan
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/eb6f6e24-e592-4b0d-a02f-57cac4551604"/>
+</p>
+<p>
+Click SLA nad you will see SEV-A and SEV-B was created. Next click add new SLA Plan
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/88dac918-dc19-4a48-baad-169002e6a1bd"/>
+</p>
+<p>
+Now type SEV-C and the grade period type 8. For the schedule click Monday to Friday 8am to 5pm with US Holiday then click add plan
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/7e1d5a68-6c8a-48c7-bb16-820608b036c2"/>
+</p>
+<p>
+Click SLA nad you will see SEV-A, SEV-B, and SEV-C was created. Now click help topics 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/d48a32fd-7fe1-49e0-833d-f7dde259c7bc"/>
+</p>
+<p>
+Click add new help topic
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/17bb25a1-f871-4486-ac16-3400d4a056ca"/>
+</p>
+<p>
+Type Business Critical Outage then click add topic 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/d1c7f172-184e-4277-8932-a01f4e65b681"/>
+</p>
+<p>
+Click create new help topic then type Personal Computer Issues then click add topic 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/0c38a950-4009-4b35-9020-f551ec5b8392"/>
+</p>
+<p>
+Next click new ticket options and for the priority section lcik normal and the SLA plan click SEV-C then click add topic 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/111deac2-7632-419d-b13d-805620af1249"/>
+</p>
+<p>
+Now go back to help topics menu and click Business Ciritical Outage 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/8d0109d3-530d-4f0a-bf3d-880860fcf507"/>
+</p>
+<p>
+Next click new ticket options, for the department click Support. The priority section click Emergency and the SLA plan click SEV-A. Finally click save changes 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/3466fbaa-10d3-4539-9fa3-74c7f49240af"/>
+</p>
+<p>
+Click new ticket then click next type Equipment Request 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/b5e40983-31b0-478f-a169-27edff5a7754"/>
+</p>
+<p>
+Now click new ticket options for department click Support. Now for priority click low then for SLA plan click SEV-C. Finally click add topic 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/74a649cf-0203-4502-8559-587c79d98ad0"/>
+</p>
+<p>
+Go back to help topics, you will see Equipment request was created then click add new help topics
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/cb134a86-4f34-4641-9338-ebd1372d0077"/>
+</p>
+<p>
+Type Password Reset 
+</p>
+<br />
+
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/e67187fa-62fa-49e2-bcab-dac168ef718a"/>
+</p>
+<p>
+Next click new ticket options. For department click support next for priority click normal. For SLA plan click SEV-C then finally click add topic 
 </p>
 <br />
