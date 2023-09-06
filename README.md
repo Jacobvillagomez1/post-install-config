@@ -59,3 +59,11 @@ Next type the name of your user then the password then click log in
 Next click Admin panel in the top right corner 
 </p>
 <br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/19317425-9df8-4978-972c-2ba032e3687f"/>
+</p>
+<p>
+Now click the Agents tab then click Roles 
+</p>
+<br />
