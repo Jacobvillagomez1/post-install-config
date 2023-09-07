@@ -13,6 +13,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- This link is to log into OsTicket http://localhost/osTicket/scp/login.php
 
 <h2>Environments and Technologies Used</h2>
 
@@ -40,7 +41,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/a23b0ccb-ccd9-48a4-a76d-b72fa4fbed7f"/>
 </p>
 <p>
-Going based off https://github.com/Jacobvillagomez1/osticket-prereqs first go to the link to log into OsTicket 
+Going based off https://github.com/Jacobvillagomez1/osticket-prereqs first go to the link to log into OsTicket Browse to your help desk login page: http://localhost/osTicket/scp/login.php 
 </p>
 <br />
 
