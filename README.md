@@ -404,6 +404,6 @@ Type Password Reset
 <img src="https://github.com/Jacobvillagomez1/post-install-config/assets/143027686/e67187fa-62fa-49e2-bcab-dac168ef718a"/>
 </p>
 <p>
-Next click new ticket options. For department click support next for priority click normal. For SLA plan click SEV-C then finally click add topic 
+Next click new ticket options. For department click support next for priority click normal. For SLA plan click SEV-C then finally click add topic. Next click the link to continue the Ticket Lifecycle Examples https://github.com/Jacobvillagomez1/ticket-lifecycle
 </p>
 <br />
